@@ -1,0 +1,15 @@
+{
+  "new_commit": "52",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0006/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/BinLookupService/52/openapi.json",
+  "old_commit": "50",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0006/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/BinLookupService/50/openapi.json",
+  "pair_id": "pair_0006",
+  "path": "adyen.com:BinLookupService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:06:39+00:00"
+}

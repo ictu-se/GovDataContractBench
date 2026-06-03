@@ -1,0 +1,15 @@
+{
+  "new_commit": "25",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0029/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/RecurringService/25/openapi.json",
+  "old_commit": "18",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0029/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/RecurringService/18/openapi.json",
+  "pair_id": "pair_0029",
+  "path": "adyen.com:RecurringService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:06:59+00:00"
+}

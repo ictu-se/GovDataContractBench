@@ -1,0 +1,15 @@
+{
+  "new_commit": "3",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0033/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/TransferService/3/openapi.json",
+  "old_commit": "2",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0033/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/TransferService/2/openapi.json",
+  "pair_id": "pair_0033",
+  "path": "adyen.com:TransferService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:02+00:00"
+}

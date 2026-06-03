@@ -1,0 +1,6 @@
+cases,detector,f1,fn,fp,label,mutation_score,precision,recall,runtime_ms_per_case,runtime_seconds_total,severity_weighted_recall,tn,tp
+14561,parser_only,0.0,11558,0,all,0.0,0.0,0.0,0.046868,0.682452,0.0,3003,0
+14561,structural_required,0.7954,3927,0,all,0.6602,1.0,0.6602,0.003562,0.051866,0.6293,3003,7631
+14561,structural_plus_semantic,0.947,1164,0,all,0.8993,1.0,0.8993,0.021527,0.31345,0.9232,3003,10394
+14561,compatibility,0.8602,2835,0,all,0.7547,1.0,0.7547,0.003292,0.047935,0.6997,3003,8723
+14561,proposed_multilayer,0.9969,72,0,all,0.9938,1.0,0.9938,0.01059,0.154196,0.9936,3003,11486

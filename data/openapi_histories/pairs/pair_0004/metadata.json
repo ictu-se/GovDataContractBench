@@ -1,0 +1,15 @@
+{
+  "new_commit": "2",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0004/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/BalancePlatformService/2/openapi.json",
+  "old_commit": "1",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0004/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/BalancePlatformService/1/openapi.json",
+  "pair_id": "pair_0004",
+  "path": "adyen.com:BalancePlatformService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:06:38+00:00"
+}

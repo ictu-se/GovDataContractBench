@@ -1,0 +1,21 @@
+{
+  "alert_types": {
+    "deep_enum_signature_removed": 385,
+    "enum_values_changed": 31,
+    "field_requiredness_changed": 76,
+    "field_type_or_format_changed": 13,
+    "operation_added": 476,
+    "operation_removed": 323,
+    "schema_field_added": 3553,
+    "schema_field_removed": 1112
+  },
+  "alerts": 5969,
+  "audit_sample": 120,
+  "generated_at": "2026-06-03T15:55:41+00:00",
+  "layers": {
+    "compatibility": 1524,
+    "non_breaking": 4029,
+    "semantic": 416
+  },
+  "pairs": 60
+}

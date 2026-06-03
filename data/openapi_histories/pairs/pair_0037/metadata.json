@@ -1,0 +1,15 @@
+{
+  "new_commit": "2017-10-30",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0037/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/cloudfront/2017-10-30/openapi.json",
+  "old_commit": "2017-03-25",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0037/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/cloudfront/2017-03-25/openapi.json",
+  "pair_id": "pair_0037",
+  "path": "amazonaws.com:cloudfront",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:08+00:00"
+}

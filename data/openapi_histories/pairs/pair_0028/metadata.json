@@ -1,0 +1,15 @@
+{
+  "new_commit": "49",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0028/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/PayoutService/49/openapi.json",
+  "old_commit": "46",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0028/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/PayoutService/46/openapi.json",
+  "pair_id": "pair_0028",
+  "path": "adyen.com:PayoutService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:06:58+00:00"
+}

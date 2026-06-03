@@ -1,0 +1,15 @@
+{
+  "new_commit": "2018-05-05-preview",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0049/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/azure.com/alertsmanagement-AlertsManagement/2018-05-05-preview/swagger.json",
+  "old_commit": "2018-05-05",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0049/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/azure.com/alertsmanagement-AlertsManagement/2018-05-05/swagger.json",
+  "pair_id": "pair_0049",
+  "path": "azure.com:alertsmanagement-AlertsManagement",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:23+00:00"
+}

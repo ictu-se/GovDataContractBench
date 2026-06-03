@@ -1,0 +1,20 @@
+{
+  "bytes": 10450517,
+  "dataset": "data_gov_ckan",
+  "errors": [
+    {
+      "error": "IncompleteRead(3205504 bytes read, 10155404 more expected)",
+      "source": "https://open.canada.ca/data/api/action/package_search"
+    }
+  ],
+  "local_path": "data/data_gov/packages.jsonl.gz",
+  "note": "Data.gov endpoints were unreachable from this environment; used a public government CKAN fallback.",
+  "records": 10000,
+  "requested_limit": 10000,
+  "retrieval_method": "fallback_ckan_package_search",
+  "retrieved_at": "2026-06-02T02:59:26+00:00",
+  "rows_per_page": 1000,
+  "sha256": "49ef0472fdce5c8468d1695b808a0e38ea566e74647c9c79136ac348429343fa",
+  "source_api": "https://data.gov.au/data/api/3/action/package_search",
+  "status": "ok"
+}

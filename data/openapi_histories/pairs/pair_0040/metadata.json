@@ -1,0 +1,15 @@
+{
+  "new_commit": "2012-08-10",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0040/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/dynamodb/2012-08-10/openapi.json",
+  "old_commit": "2011-12-05",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0040/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/dynamodb/2011-12-05/openapi.json",
+  "pair_id": "pair_0040",
+  "path": "amazonaws.com:dynamodb",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:12+00:00"
+}

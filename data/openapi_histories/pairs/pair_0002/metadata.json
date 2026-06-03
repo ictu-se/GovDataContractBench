@@ -1,0 +1,15 @@
+{
+  "new_commit": "5",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0002/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/adyen.com/AccountService/5/openapi.json",
+  "old_commit": "4",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0002/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/adyen.com/AccountService/4/openapi.json",
+  "pair_id": "pair_0002",
+  "path": "adyen.com:AccountService",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:06:36+00:00"
+}

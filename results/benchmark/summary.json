@@ -1,0 +1,50 @@
+{
+  "by_artifact_type": {
+    "ckan": 5000,
+    "fhir": 8726,
+    "openapi": 835
+  },
+  "by_label": {
+    "breaking_provenance": 4000,
+    "breaking_schema": 4430,
+    "breaking_security": 116,
+    "breaking_semantic": 3012,
+    "non_breaking": 3003
+  },
+  "by_mutation_type": {
+    "distribution_url_removed": 976,
+    "enum_code_list_remapped": 13,
+    "field_renamed_without_alias": 249,
+    "meta_tag_added": 2000,
+    "metadata_field_removed_license_id": 1000,
+    "metadata_field_removed_metadata_modified": 1000,
+    "metadata_field_removed_title": 1000,
+    "metadata_tag_added": 1000,
+    "optional_becomes_required": 188,
+    "optional_field_added": 3,
+    "period_end_before_start": 733,
+    "reference_broken": 1993,
+    "remove_required_field": 164,
+    "resource_id_removed": 2000,
+    "resource_type_changed": 2000,
+    "security_requirement_removed": 116,
+    "stale_metadata_timestamp": 24,
+    "type_changed": 102
+  },
+  "cases": 14561,
+  "detectors": [
+    "parser_only",
+    "structural_required",
+    "structural_plus_semantic",
+    "compatibility",
+    "proposed_multilayer"
+  ],
+  "generated_at": "2026-06-03T15:55:41Z",
+  "parameters": {
+    "ckan_artifacts": 1000,
+    "fhir_artifacts": 2000,
+    "max_mutations_per_artifact": 5,
+    "openapi_artifacts": 150,
+    "seed": 20260602
+  }
+}

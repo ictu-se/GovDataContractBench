@@ -1,0 +1,15 @@
+{
+  "new_commit": "2015-03-31",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0041/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/lambda/2015-03-31/openapi.json",
+  "old_commit": "2014-11-11",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0041/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/lambda/2014-11-11/openapi.json",
+  "pair_id": "pair_0041",
+  "path": "amazonaws.com:lambda",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:13+00:00"
+}

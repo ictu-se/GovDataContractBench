@@ -1,0 +1,15 @@
+{
+  "new_commit": "2013-01-01",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0039/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/cloudsearch/2013-01-01/openapi.json",
+  "old_commit": "2011-02-01",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0039/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/cloudsearch/2011-02-01/openapi.json",
+  "pair_id": "pair_0039",
+  "path": "amazonaws.com:cloudsearch",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:11+00:00"
+}

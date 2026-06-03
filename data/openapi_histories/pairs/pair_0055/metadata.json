@@ -1,0 +1,15 @@
+{
+  "new_commit": "2017-08-01-beta",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0055/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/azure.com/analysisservices/2017-08-01-beta/swagger.json",
+  "old_commit": "2017-08-01",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0055/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/azure.com/analysisservices/2017-08-01/swagger.json",
+  "pair_id": "pair_0055",
+  "path": "azure.com:analysisservices",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:30+00:00"
+}

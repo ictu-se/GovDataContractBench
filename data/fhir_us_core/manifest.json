@@ -1,0 +1,23 @@
+{
+  "bytes": 1698061,
+  "dataset": "fhir_us_core_examples",
+  "examples_dir": "data/fhir_us_core/examples",
+  "extracted_json_examples": 141,
+  "package_path": "data/fhir_us_core/package.tgz",
+  "resource_types": {
+    "Condition": 5,
+    "Coverage": 1,
+    "DiagnosticReport": 5,
+    "Encounter": 3,
+    "Medication": 2,
+    "MedicationDispense": 1,
+    "MedicationRequest": 4,
+    "Observation": 114,
+    "Patient": 5,
+    "Provenance": 1
+  },
+  "retrieved_at": "2026-06-02T02:53:07+00:00",
+  "sha256": "2a2604f037d10e43f76b1a9a9b34053682e9c74f2448a159f31302652005aae5",
+  "source_url": "https://hl7.org/fhir/us/core/STU6.1/package.tgz",
+  "status": "ok"
+}

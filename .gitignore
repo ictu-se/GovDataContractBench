@@ -1,0 +1,23 @@
+# Local/editor state
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Manuscript and journal-template material are intentionally not published here.
+manuscript.md
+note.md
+datasets_and_evaluation.md
+eisej_template/
+*.tex
+*.bib
+*.bst
+*.bbl
+*.blg
+*.aux
+*.log
+*.out
+*.pdf
+
+# Large transient clone used only by the optional git-history collection mode.
+data/openapi_histories/openapi-directory/

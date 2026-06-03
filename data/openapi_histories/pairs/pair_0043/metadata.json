@@ -1,0 +1,15 @@
+{
+  "new_commit": "2013-09-09",
+  "new_date": "",
+  "new_path": "data/openapi_histories/pairs/pair_0043/new.json",
+  "new_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/rds/2013-09-09/openapi.json",
+  "old_commit": "2013-02-12",
+  "old_date": "",
+  "old_path": "data/openapi_histories/pairs/pair_0043/old.json",
+  "old_source_url": "https://api.apis.guru/v2/specs/amazonaws.com/rds/2013-02-12/openapi.json",
+  "pair_id": "pair_0043",
+  "path": "amazonaws.com:rds",
+  "repo": "APIs.guru public version directory",
+  "retrieval_method": "apis_guru_public_versions",
+  "retrieved_at": "2026-06-02T12:07:16+00:00"
+}
