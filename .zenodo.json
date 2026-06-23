@@ -1,0 +1,36 @@
+{
+  "title": "GovDataContractBench: Benchmark for Multi-Layer Contract-Drift Detection",
+  "upload_type": "software",
+  "description": "GovDataContractBench is a reproducible benchmark artifact for studying multi-layer contract-drift detection on public OpenAPI, CKAN, and FHIR artifacts. This release contains the benchmark code, public-data snapshot, generated mutation cases, detector metrics, natural-drift analysis outputs, and reproduction instructions used for the EISEJ manuscript.",
+  "creators": [
+    {
+      "name": "Nguyen, The-Vinh",
+      "orcid": "0000-0002-1300-3943",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    },
+    {
+      "name": "Quach, Xuan-Truong",
+      "orcid": "0000-0003-1402-0830",
+      "affiliation": "Thai Nguyen University of Information and Communication Technology"
+    }
+  ],
+  "license": "MIT",
+  "version": "v1.0.0-eisej",
+  "keywords": [
+    "data contracts",
+    "contract drift",
+    "empirical software engineering",
+    "software testing",
+    "test oracles",
+    "OpenAPI",
+    "CKAN",
+    "FHIR"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ictu-se/GovDataContractBench",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
